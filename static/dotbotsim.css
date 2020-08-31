@@ -1,0 +1,42 @@
+#pagetitle {
+    background-color: yellow;
+}
+
+#floorplan {
+    background-color: white;
+    border-style:     solid;
+    border-width:     1px;
+    border-color:     black;
+}
+
+#nextbutton {
+    background-color: yellow;
+    width:            100px;
+    height:            50px;
+}
+
+#playbutton {
+    background-color: blue;
+    width:            100px;
+    height:            50px;
+}
+
+#pausebutton {
+    background-color: orange;
+    width:            100px;
+    height:            50px;
+}
+
+#versionLabel {
+    background-color: green;
+}
+
+.dotbot {
+    fill:             red;
+    stroke:           black;
+    stroke-width:     1px;
+}
+
+.obstacle {
+    fill:             #aaaaaa;
+}
